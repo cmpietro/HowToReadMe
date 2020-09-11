@@ -1,2 +1,2 @@
-# PROJECT1-2
+# HowtoReadMe
 JUST IN CASE
