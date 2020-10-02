@@ -21,7 +21,7 @@ Once you have your readme created and updated the way you want, some tips to rem
 3. Keep your readme up-to-date with the latest information about any *ACTIVE* repositories.  
 4. If you don't want to maintain the readme and the repository any longer, consider archiving it, or notating in the readme, that the repository is no longer active. 
 
-**BOOTCAMP STUDENTS: **
+**BOOTCAMP STUDENTS:**
 
 When you create your repositories for your homework, use a new readme.md and not the readme file located in the homework folders.  The graders have the instructions for the homework already.  Provide a readme.md file with instructions for the graders on which files are your final or any special instructions.  
 
